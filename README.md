@@ -33,5 +33,5 @@ automation and pipelines.
 
 ## GitHub stats
 
-![cenavice's GitHub stats](https://github-readme-stats.vercel.app/api?username=cenavice&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cenavice&layout=compact&hide_border=true)
+![GitHub stats](./profile/stats.svg)
+![Top languages](./profile/top-langs.svg)
